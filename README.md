@@ -5,7 +5,7 @@ click=> login
 
 sign in Using below
 
-Enter Email => Tara (or) Amit 
+Enter Email => Tara (or) Amit
 Enter Pass  => Tara (or) Amit 
 
 click => SIGN IN
